@@ -15,10 +15,10 @@ https://github.com/user-attachments/assets/99cb1ffa-5271-4c27-87ce-5fc1792ad632
 
 # Technologies Used
 
-[React.js](https://react.dev/): A build tool that provides fast development and optimized production builds.
-[Vite](https://vitejs.dev/): A JavaScript library for building user interfaces.
-[Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework used for styling the app.
-[Firebase Firestore](https://firebase.google.com/docs/firestore): A real-time NoSQL database used to store and sync todo data.
+- [React.js](https://react.dev/): A build tool that provides fast development and optimized production builds.
+- [Vite](https://vitejs.dev/): A JavaScript library for building user interfaces.
+- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework used for styling the app.
+- [Firebase Firestore](https://firebase.google.com/docs/firestore): A real-time NoSQL database used to store and sync todo data.
 
 # Usage
 
