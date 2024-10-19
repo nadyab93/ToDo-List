@@ -2,7 +2,7 @@
 
 This is a Todo List application built using Vite for React.js, Tailwind CSS, and Firebase. The app allows users to manage their daily tasks, mark them as completed, edit existing tasks, and delete them as needed. It features real-time updates using Firebase, providing a seamless user experience.
 
-https://github.com/user-attachments/assets/99cb1ffa-5271-4c27-87ce-5fc1792ad632
+https://github.com/user-attachments/assets/dedc754e-a246-45c8-827f-8e22c09a41f1
 
 # Features
 
