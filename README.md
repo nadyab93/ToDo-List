@@ -7,9 +7,10 @@ https://github.com/user-attachments/assets/99cb1ffa-5271-4c27-87ce-5fc1792ad632
 # Features
 
 - Add Todos: Users can add new tasks to their todo list.
-- Mark as Complete: Tasks can be marked as completed by clicking the checkbox.
-- Edit Todos: Users can edit the text of existing tasks.
-- Delete Todos: Users can delete tasks from the list.
+- Mark as Complete: Tasks can be marked as completed by clicking the checkbox. Completed tasks are visually distinguished by crossing them over for clarity.
+- Crossover Feature: When a task is marked as completed, the text is automatically crossed over, giving a clear indication of its status.
+- Edit Todos: Users can edit the text of existing tasks. When in edit mode, the task’s text is highlighted, and a "Save" button allows users to confirm changes.
+- Delete Todos: Users can delete tasks from the list, removing them permanently.
 - Real-Time Sync: Todo list data is stored in Firebase and updated in real-time across all connected devices.
 - Responsive Design: The app is fully responsive and works well on both desktop and mobile devices.
 
@@ -23,7 +24,7 @@ https://github.com/user-attachments/assets/99cb1ffa-5271-4c27-87ce-5fc1792ad632
 # Usage
 
 1) Add a Todo: Enter a task in the input field and click the "plus" button or press Enter to add it to the list.
-2) Toggle Complete: Click the checkbox next to a todo to mark it as complete or incomplete.
+2) Toggle Complete: Click the checkbox next to a todo to mark it as complete or incomplete. Completed tasks will be crossed out automatically.
 3) Edit a Todo: Click the edit icon to switch to edit mode, change the text, and then click the "Save" button.
 4) Delete a Todo: Click the trash icon to delete the todo permanently.
 
@@ -32,6 +33,10 @@ https://github.com/user-attachments/assets/99cb1ffa-5271-4c27-87ce-5fc1792ad632
 - [Firebase](https://firebase.google.com/): Provides real-time database and authentication features.
 - [React Icons](https://react-icons.github.io/react-icons/): Used for the icons like the "plus", "edit", and "trash" icons.
 - [Tailwind CSS](https://tailwindcss.com/): For styling the app with utility classes.
+
+# Tutorial
+
+This project was initially based on a tutorial from the YouTube channel [Code Commerce](https://www.youtube.com/watch?v=drF8HbnW87w). The tutorial covered the basic structure of a Todo List app using React.js, Firebase, and Tailwind CSS. The implementation extends the tutorial by adding a task crossover feature upon completion and an enhanced edit task functionality.
 
 # License
 
